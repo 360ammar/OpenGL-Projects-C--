@@ -1,0 +1,55 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_0054_LightYellow
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.878431
+Ks 0.330000 0.330000 0.330000
+
+newmtl Mirror_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.725490 0.725490 0.725490
+Ks 0.330000 0.330000 0.330000
+map_Kd campus/Mirror_01.jpg
+
+newmtl Quartz_Light_Brown
+Ka 0.000000 0.000000 0.000000
+Kd 0.780392 0.721569 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd campus/Quartz_Light_Brown.jpg
+
+newmtl M_0055_LightGoldenrodYellow
+Ka 0.000000 0.000000 0.000000
+Kd 0.980392 0.980392 0.823529
+Ks 0.330000 0.330000 0.330000
+
+newmtl Carrera_Marble
+Ka 0.000000 0.000000 0.000000
+Kd 0.811765 0.811765 0.811765
+Ks 0.330000 0.330000 0.330000
+map_Kd campus/Carrera_Marble.jpg
+
+newmtl Granite_Light_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.580392 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd campus/Granite_Light_Gray.jpg
+
+newmtl Mirror_02
+Ka 0.000000 0.000000 0.000000
+Kd 0.901961 0.901961 0.901961
+Ks 0.330000 0.330000 0.330000
+map_Kd campus/Mirror_02.jpg
+
+newmtl Blacktop_New
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd campus/Blacktop_New.jpg
+
